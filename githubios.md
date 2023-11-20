@@ -11,8 +11,6 @@
 [https://alphagov.github.io/digitalmarketplace-manual/](https://alphagov.github.io/digitalmarketplace-manual/) \
 [https://alphagov.github.io/exemplar-screens/](https://alphagov.github.io/exemplar-screens/) \
 [https://alphagov.github.io/gdmp-translated-standards/](https://alphagov.github.io/gdmp-translated-standards/) \
-[https://alphagov.github.io/gds-reveal.js-presentation-template/](https://alphagov.github.io/gds-reveal.js-presentation-template/) \
-[https://alphagov.github.io/gds.css](https://alphagov.github.io/gds.css) \
 [https://alphagov.github.io/govuk-content-best-practices/](https://alphagov.github.io/govuk-content-best-practices/) \
 [https://alphagov.github.io/govuk-country-and-territory-autocomplete/](https://alphagov.github.io/govuk-country-and-territory-autocomplete/) \
 [https://alphagov.github.io/govuk-google-analytics/](https://alphagov.github.io/govuk-google-analytics/) \
@@ -53,7 +51,6 @@
 [https://cdeiuk.github.io/index.html](https://cdeiuk.github.io/index.html) \
 [https://cdeiuk.github.io/logo.svg](https://cdeiuk.github.io/logo.svg) \
 [https://cdeiuk.github.io/pets-adoption-guide/](https://cdeiuk.github.io/pets-adoption-guide/) \
-[https://cdeiuk.github.io/style.css](https://cdeiuk.github.io/style.css) \
 [https://childrenscommissioner.github.io/mhbriefing2019/](https://childrenscommissioner.github.io/mhbriefing2019/) \
 [https://childrenscommissioner.github.io/mhbriefing2020/](https://childrenscommissioner.github.io/mhbriefing2020/) \
 [https://childrenscommissioner.github.io/riskmaps2019/](https://childrenscommissioner.github.io/riskmaps2019/) \
@@ -335,7 +332,6 @@
 [https://hmrc.github.io/coding-in-the-open-manual/](https://hmrc.github.io/coding-in-the-open-manual/) \
 [https://hmrc.github.io/gaad/](https://hmrc.github.io/gaad/) \
 [https://hmrc.github.io/hmrc-screens/](https://hmrc.github.io/hmrc-screens/) \
-[https://hmrc.github.io/style.css](https://hmrc.github.io/style.css) \
 [https://landregistry.github.io/bg-tech-docs-private/](https://landregistry.github.io/bg-tech-docs-private/) \
 [https://landregistry.github.io/bgtechdoc/](https://landregistry.github.io/bgtechdoc/) \
 [https://landregistry.github.io/local-land-charges/](https://landregistry.github.io/local-land-charges/) \
@@ -454,8 +450,6 @@
 [https://thesciencemuseum.github.io/never-been-seen/](https://thesciencemuseum.github.io/never-been-seen/) \
 [https://thesciencemuseum.github.io/web-design-system/](https://thesciencemuseum.github.io/web-design-system/) \
 [https://tna-webarchive.github.io/](https://tna-webarchive.github.io/) \
-[https://tna-webarchive.github.io/assets/css/style.css?v=07df2ade4f8d946638ec6001e9eb77d5345f92a8](https://tna-webarchive.github.io/assets/css/style.css?v=07df2ade4f8d946638ec6001e9eb77d5345f92a8) \
-[https://tna-webarchive.github.io/assets/js/scale.fix.js](https://tna-webarchive.github.io/assets/js/scale.fix.js) \
 [https://tna-webarchive.github.io/githubios.html](https://tna-webarchive.github.io/githubios.html) \
 [https://uk-x-gov-software-community.github.io/](https://uk-x-gov-software-community.github.io/) \
 [https://uk-x-gov-software-community.github.io/cookies/](https://uk-x-gov-software-community.github.io/cookies/) \
