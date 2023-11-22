@@ -445,6 +445,12 @@
 [https://onsdigital.github.io/dp-gdp-bulletin-prototype/](https://onsdigital.github.io/dp-gdp-bulletin-prototype/) \
 [https://onsdigital.github.io/dp-prototype-kit/](https://onsdigital.github.io/dp-prototype-kit/) \
 [https://onsdigital.github.io/dp-prototypes/](https://onsdigital.github.io/dp-prototypes/) \
+[https://onsvisual.github.io/census-atlas/](https://onsvisual.github.io/census-atlas/) \
+[https://onsvisual.github.io/dot-density-demo/](https://onsvisual.github.io/dot-density-demo/) \
+[https://onsvisual.github.io/dvc272/](https://onsvisual.github.io/dvc272/) \
+[https://onsvisual.github.io/dvc350/](https://onsvisual.github.io/dvc350/) \
+[https://onsvisual.github.io/project_cairo/](https://onsvisual.github.io/project_cairo/) \
+[https://onsvisual.github.io/svelte-scrolly/](https://onsvisual.github.io/svelte-scrolly/) \
 [https://ordnancesurvey.github.io/](https://ordnancesurvey.github.io/) \
 [https://ordnancesurvey.github.io/about/](https://ordnancesurvey.github.io/about/) \
 [https://ordnancesurvey.github.io/openspace-android-sdk/](https://ordnancesurvey.github.io/openspace-android-sdk/) \
