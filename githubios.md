@@ -67,6 +67,7 @@
 [https://co-analysis.github.io/csmapping/](https://co-analysis.github.io/csmapping/) \
 [https://co-analysis.github.io/deckhand/](https://co-analysis.github.io/deckhand/) \
 [https://co-analysis.github.io/govuk-hugo-demo/](https://co-analysis.github.io/govuk-hugo-demo/) \
+[https://co-cddo.github.io/ukgov-metadata-exchange-model/](https://co-cddo.github.io/ukgov-metadata-exchange-model/) \
 [https://communitiesuk.github.io/](https://communitiesuk.github.io/) \
 [https://communitiesuk.github.io/funding-service-design-post-award-alpha/](https://communitiesuk.github.io/funding-service-design-post-award-alpha/) \
 [https://communitiesuk.github.io/local-cyber-support-docs/](https://communitiesuk.github.io/local-cyber-support-docs/) \
@@ -157,6 +158,7 @@
 [https://digital-land.github.io/brownfield-land-screenshots/](https://digital-land.github.io/brownfield-land-screenshots/) \
 [https://digital-land.github.io/brownfield-land/](https://digital-land.github.io/brownfield-land/) \
 [https://digital-land.github.io/cookies/](https://digital-land.github.io/cookies/) \
+[https://digital-land.github.io/data-standards/](https://digital-land.github.io/data-standards/) \
 [https://digital-land.github.io/design-system/](https://digital-land.github.io/design-system/) \
 [https://digital-land.github.io/glossary/](https://digital-land.github.io/glossary/) \
 [https://digital-land.github.io/guidance/](https://digital-land.github.io/guidance/) \
@@ -333,6 +335,7 @@
 [https://hmrc.github.io/coding-in-the-open-manual/](https://hmrc.github.io/coding-in-the-open-manual/) \
 [https://hmrc.github.io/gaad/](https://hmrc.github.io/gaad/) \
 [https://hmrc.github.io/hmrc-screens/](https://hmrc.github.io/hmrc-screens/) \
+[https://homesengland.github.io/playbook.html](https://homesengland.github.io/playbook.html) \
 [https://landregistry.github.io/bg-tech-docs-private/](https://landregistry.github.io/bg-tech-docs-private/) \
 [https://landregistry.github.io/bgtechdoc/](https://landregistry.github.io/bgtechdoc/) \
 [https://landregistry.github.io/local-land-charges/](https://landregistry.github.io/local-land-charges/) \
@@ -355,6 +358,7 @@
 [https://ministryofjustice.github.io/service-screens-noms/](https://ministryofjustice.github.io/service-screens-noms/) \
 [https://ministryofjustice.github.io/service-screens/](https://ministryofjustice.github.io/service-screens/) \
 [https://ministryofjustice.github.io/vis-prototype/](https://ministryofjustice.github.io/vis-prototype/) \
+[https://moj-analytical-services.github.io/our-coding-standards/](https://moj-analytical-services.github.io/our-coding-standards/) \
 [https://moj-analytical-services.github.io/splink/](https://moj-analytical-services.github.io/splink/) \
 [https://mrc-ide.github.io/](https://mrc-ide.github.io/) \
 [https://mrc-ide.github.io/global-lmic-reports/](https://mrc-ide.github.io/global-lmic-reports/) \
@@ -473,6 +477,7 @@
 [https://uk-x-gov-software-community.github.io/cookies/](https://uk-x-gov-software-community.github.io/cookies/) \
 [https://uk-x-gov-software-community.github.io/events/](https://uk-x-gov-software-community.github.io/events/) \
 [https://uk-x-gov-software-community.github.io/objectives/](https://uk-x-gov-software-community.github.io/objectives/) \
+[https://uk-x-gov-software-community.github.io/xgov-opensource-repo-scraper/](https://uk-x-gov-software-community.github.io/xgov-opensource-repo-scraper/) \
 [https://ukgovdatascience.github.io/](https://ukgovdatascience.github.io/) \
 [https://ukgovdatascience.github.io/govdown/](https://ukgovdatascience.github.io/govdown/) \
 [https://ukgovdatascience.github.io/govstyle/](https://ukgovdatascience.github.io/govstyle/) \
@@ -486,6 +491,7 @@
 [https://ukhomeoffice.github.io/asl-reporting/](https://ukhomeoffice.github.io/asl-reporting/) \
 [https://ukhomeoffice.github.io/coe/](https://ukhomeoffice.github.io/coe/) \
 [https://ukhomeoffice.github.io/cop-react-components/](https://ukhomeoffice.github.io/cop-react-components/) \
+[https://ukhomeoffice.github.io/cross-gov-caseworking/](https://ukhomeoffice.github.io/cross-gov-caseworking/) \
 [https://ukhomeoffice.github.io/developer-induction/](https://ukhomeoffice.github.io/developer-induction/) \
 [https://ukhomeoffice.github.io/playbook/](https://ukhomeoffice.github.io/playbook/) \
 [https://ukhomeoffice.github.io/removals_stub/](https://ukhomeoffice.github.io/removals_stub/) \
