@@ -92,7 +92,6 @@
 [https://communitiesuk.github.io/](https://communitiesuk.github.io/) \
 [https://hmcts.github.io/rd-judicial-data-load/](https://hmcts.github.io/rd-judicial-data-load/) \
 [https://dfe-digital.github.io/technical-guidance/](https://dfe-digital.github.io/technical-guidance/) \
-[https://britishlibrary.github.io/jcpc-linked-data/](https://britishlibrary.github.io/jcpc-linked-data/) \
 [https://fsadata.github.io/fsa-workforce-management-information/](https://fsadata.github.io/fsa-workforce-management-information/) \
 [https://dfe-digital.github.io/](https://dfe-digital.github.io/) \
 [https://gchq.github.io/stroom-docs/](https://gchq.github.io/stroom-docs/) \
@@ -179,7 +178,6 @@
 [https://moj-analytical-services.github.io/splink_graph/](https://moj-analytical-services.github.io/splink_graph/) \
 [https://gchq.github.io/iris-worm/](https://gchq.github.io/iris-worm/) \
 [https://openregister.github.io/specification/](https://openregister.github.io/specification/) \
-[https://britishlibrary.github.io/data.bl.uk/](https://britishlibrary.github.io/data.bl.uk/) \
 [https://nhsconnect.github.io/prm-practice-migration/](https://nhsconnect.github.io/prm-practice-migration/) \
 [https://uk-x-gov-software-community.github.io/events/](https://uk-x-gov-software-community.github.io/events/) \
 [https://fsadata.github.io/food-standards-agency-file-plan/](https://fsadata.github.io/food-standards-agency-file-plan/) \
@@ -298,7 +296,6 @@
 [https://gchq.github.io/gaffer-doc/](https://gchq.github.io/gaffer-doc/) \
 [https://datasciencecampus.github.io/projects/](https://datasciencecampus.github.io/projects/) \
 [https://ukhomeoffice.github.io/coe/](https://ukhomeoffice.github.io/coe/) \
-[https://britishlibrary.github.io/locating-a-national-collection/](https://britishlibrary.github.io/locating-a-national-collection/) \
 [https://cps-innovation.github.io/digital-sop/](https://cps-innovation.github.io/digital-sop/) \
 [https://nhsx.github.io/nhsx-internship-projects/](https://nhsx.github.io/nhsx-internship-projects/) \
 [https://nhsconnect.github.io/prescription-exemptions-1.1.0/](https://nhsconnect.github.io/prescription-exemptions-1.1.0/) \
@@ -380,7 +377,6 @@
 [https://onsdigital.github.io/survey-accounts/](https://onsdigital.github.io/survey-accounts/) \
 [https://gchq.github.io/gaffer-tools/](https://gchq.github.io/gaffer-tools/) \
 [https://dfe-digital.github.io/user-research/](https://dfe-digital.github.io/user-research/) \
-[https://britishlibrary.github.io/peripleo/](https://britishlibrary.github.io/peripleo/) \
 [https://ukhomeoffice.github.io/developer-induction/](https://ukhomeoffice.github.io/developer-induction/) \
 [https://govuk-one-login.github.io/data-vocab/](https://govuk-one-login.github.io/data-vocab/) \
 [https://nhsx.github.io/online-services-demographic-modelling/](https://nhsx.github.io/online-services-demographic-modelling/) \
@@ -659,7 +655,6 @@
 [https://onsdigital.github.io/sdg-data/](https://onsdigital.github.io/sdg-data/) \
 [https://alphagov.github.io/pay-telephone-payments/](https://alphagov.github.io/pay-telephone-payments/) \
 [https://nhsengland.github.io/it-standards/](https://nhsengland.github.io/it-standards/) \
-[https://britishlibrary.github.io/iiif-av-samples/](https://britishlibrary.github.io/iiif-av-samples/) \
 [https://fsadata.github.io/average-daily-footfall-in-aviation-house-by-week/](https://fsadata.github.io/average-daily-footfall-in-aviation-house-by-week/) \
 [https://wmfs.github.io/mystic-taiga/](https://wmfs.github.io/mystic-taiga/) \
 [https://ukgovdatascience.github.io/cookiecutter-data-science-gds/](https://ukgovdatascience.github.io/cookiecutter-data-science-gds/) \
@@ -751,7 +746,6 @@
 [https://ministryofjustice.github.io/moj-frontend-weekly/](https://ministryofjustice.github.io/moj-frontend-weekly/) \
 [https://nhsengland.github.io/leaflet-geomaps-NHS/](https://nhsengland.github.io/leaflet-geomaps-NHS/) \
 [https://fsadata.github.io/data-catalogue/](https://fsadata.github.io/data-catalogue/) \
-[https://britishlibrary.github.io/peripleo-lanc/](https://britishlibrary.github.io/peripleo-lanc/) \
 [https://ministryofjustice.github.io/panda-tech-radar/](https://ministryofjustice.github.io/panda-tech-radar/) \
 [https://dwp.github.io/Prototype/](https://dwp.github.io/Prototype/) \
 [https://nerc-ceh.github.io/eddystore/](https://nerc-ceh.github.io/eddystore/) \
