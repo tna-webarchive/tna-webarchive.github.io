@@ -5,6 +5,7 @@
 [https://datasciencecampus.github.io/detecting-collective-human-behaviour-in-internet-traffic-volume-data/](https://datasciencecampus.github.io/detecting-collective-human-behaviour-in-internet-traffic-volume-data/) \
 [https://skillsfundingagency.github.io/das-technical-guidance/](https://skillsfundingagency.github.io/das-technical-guidance/) \
 [https://alphagov.github.io/inside-government-admin-guide/](https://alphagov.github.io/inside-government-admin-guide/) \
+[https://ukgovernmentbeis.github.io/inspect_ai/](https://ukgovernmentbeis.github.io/inspect_ai/) \
 [https://nhsx.github.io/gp_mapping/](https://nhsx.github.io/gp_mapping/) \
 [https://fsadata.github.io/product-recalls-and-withdrawals/](https://fsadata.github.io/product-recalls-and-withdrawals/) \
 [https://moj-analytical-services.github.io/pydbtools/](https://moj-analytical-services.github.io/pydbtools/) \
